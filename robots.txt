@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://okymal.github.io/tastespin/sitemap.xml
+
